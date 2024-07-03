@@ -89,6 +89,7 @@ body {
   transform: rotate(-45deg);
   width: 30px;
 }
+
 .heart:before,
 .heart:after {
   content: "";
